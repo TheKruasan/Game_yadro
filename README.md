@@ -149,4 +149,4 @@ Final report:
 
 
 #### Запуск
-Запустить файл impulse/cmd/main.go
+Запустить файл cmd/main.go
